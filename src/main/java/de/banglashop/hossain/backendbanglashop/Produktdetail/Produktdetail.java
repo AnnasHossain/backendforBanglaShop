@@ -1,4 +1,6 @@
-package de.banglashop.hossain.backendbanglashop;
+package de.banglashop.hossain.backendbanglashop.Produktdetail;
+
+import de.banglashop.hossain.backendbanglashop.Bild;
 
 import java.util.List;
 
@@ -113,11 +115,6 @@ public class Produktdetail {
 
         //TODO hier noch hashcode und toString
 
-
-
-
-
-    }
 
 
 
